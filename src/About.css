@@ -1,0 +1,47 @@
+h1,
+h2,
+h3,
+p {
+  padding: 0;
+  margin: 0;
+}
+
+.about__container {
+  text-align: center;
+  padding: 2rem 0 0 .2rem;
+}
+
+.about__section1 {
+  display: flex;
+  align-items: center;
+}
+
+.back__icon {
+  margin: 0 .5rem;
+}
+
+.step__number {
+  font-size: 12px;
+  font-weight: 400;
+  margin-left: 5.3rem;
+}
+
+.about__title {
+  font-size: 26px;
+  font-weight: 500;
+  margin: 1rem 0;
+  padding:  0 1.9rem;
+}
+
+.about__subtitle {
+  font-size: 14px;
+  font-weight: 600;
+  padding:  0 1.9rem;
+}
+
+.about__description {
+  font-size: 12px;
+  line-height: 20px;
+  margin-top: 1rem;
+  padding:  0 1.9rem;
+}

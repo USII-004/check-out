@@ -1,0 +1,10 @@
+.purchase__container {
+  padding: 2rem 2rem;
+}
+
+.purchase__btn {
+  padding: .8rem 2.3rem;
+  font-size: 14px;
+  font-weight: 450;
+  background-color: rgb(245, 231, 42);
+}

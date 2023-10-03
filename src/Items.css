@@ -1,0 +1,62 @@
+a {
+  text-decoration: none;
+  color: black;
+}
+
+h3 {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+p {
+  font-size: 12px;
+  padding-top: .2rem;
+}
+
+.items__container {
+  padding: .1rem 2rem 4rem 2rem;
+}
+
+.btn {
+  margin: 1rem 0;
+  background-color: hsla(0, 8%, 90%, 0.459);
+  padding: .8rem 1rem;
+  border-radius: .5rem;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+}
+
+.items__info {
+  margin-left: .5rem;
+  margin-right: auto;
+}
+
+.mark__icon {
+  color: rgb(245, 231, 42);
+  background-color: black;
+  border-radius: 50%;
+}
+
+.items__list {
+  position: relative;
+}
+
+.items__accent {
+  background-color: blueviolet;
+  padding: .2rem .6rem;
+  border-radius: .2rem;
+  width: fit-content;
+  position: absolute;
+  top: -.5rem;
+  left: 130px;
+  font-size: 10px;
+  color: white;
+}
+
+.checked {
+  background-color: black;
+  color: white
+}

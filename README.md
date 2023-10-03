@@ -1,3 +1,10 @@
+# About
+Design for a mobile display check out for items with hover and dark mode functionalities
+
+# Learning experience
+learnt the concept to properly position an absolutely popsitioned item.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

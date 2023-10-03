@@ -1,13 +1,19 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+import About from './About'
+import Items from './Items'
+import Purchase from './Purchase'
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <div className='container'>
+      <About />
+      <Items />
+      <Purchase />
+    </div>
   </React.StrictMode>
 );
 
